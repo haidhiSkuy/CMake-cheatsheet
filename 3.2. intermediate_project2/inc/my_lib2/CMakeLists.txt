@@ -1,0 +1,1 @@
+target_include_directories(${LIBRARY2_NAME} PUBLIC "./")

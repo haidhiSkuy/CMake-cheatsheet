@@ -1,0 +1,6 @@
+/home/haidhi/Documents/udemy/cmake_learn/4. Variable_and_options/build/CMakeFiles/main.dir
+/home/haidhi/Documents/udemy/cmake_learn/4. Variable_and_options/build/CMakeFiles/edit_cache.dir
+/home/haidhi/Documents/udemy/cmake_learn/4. Variable_and_options/build/CMakeFiles/rebuild_cache.dir
+/home/haidhi/Documents/udemy/cmake_learn/4. Variable_and_options/build/src/CMakeFiles/Library.dir
+/home/haidhi/Documents/udemy/cmake_learn/4. Variable_and_options/build/src/CMakeFiles/edit_cache.dir
+/home/haidhi/Documents/udemy/cmake_learn/4. Variable_and_options/build/src/CMakeFiles/rebuild_cache.dir
